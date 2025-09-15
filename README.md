@@ -4,12 +4,6 @@ A full-stack **real-time polling application** built with **React**, **Node.js**
 
 ---
 
-## **Demo**
-
-- **Frontend:**   
-
----
-
 ## **Features**
 
 - Create polls with dynamic options  
